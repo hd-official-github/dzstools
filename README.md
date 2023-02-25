@@ -3,3 +3,4 @@ They also asked for a content tool which can scrape meta title and meta descript
 They also needed a tool which can bulk audit websites and check their http status code and show the report.
 
 
+![alt text](https://github.com/hd-official-github/dzstools/blob/main/screenshots/ss1.png?raw=true)
