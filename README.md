@@ -4,3 +4,9 @@ They also needed a tool which can bulk audit websites and check their http statu
 
 # All tools
 ![alt text](https://github.com/hd-official-github/dzstools/blob/main/screenshots/ss1.png?raw=true)
+
+# Content scraper
+![alt text](https://github.com/hd-official-github/dzstools/blob/main/screenshots/ss2.png?raw=true)
+
+# Web Audit
+![alt text](https://github.com/hd-official-github/dzstools/blob/main/screenshots/ss3.png?raw=true)
